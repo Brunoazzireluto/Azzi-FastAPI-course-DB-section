@@ -1,4 +1,4 @@
-# Azzi BoookStores
+# Azzi-FastAPI-course-DB-section
 
 Repositório do curso de [FastAPI rest](https://www.udemy.com/course/fastapi-rest/)  Ministrado pela Ines Ivanova
 
